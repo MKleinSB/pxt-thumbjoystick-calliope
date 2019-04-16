@@ -3,14 +3,14 @@
 // Changes for Calliope Mini by M.Klein 16.04.19
 
 enum GroveJoystickPins {
-    //% block=P0
-    P0 = 7,
     //% block=P1
-    P1 = 8,
+    P1 = 7,
     //% block=P2
-    P2 = 9,
-    //% block=P3
-    P3 = 10
+    P2 = 8,
+    //% block=C16
+    C16 = 9,
+    //% block=C17
+    C17 = 15
 }
 
 enum GroveJoystickKey {

@@ -36,7 +36,6 @@ enum GroveJoystickKey {
     Press = 9
 }
 
-
 /**
  * Functions to operate Grove module.
  */

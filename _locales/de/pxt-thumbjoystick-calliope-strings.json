@@ -1,0 +1,13 @@
+{
+    "GroveJoystickKey.None|block": "Keiner",
+    "GroveJoystickKey.Up|block": "Oben",
+    "GroveJoystickKey.Down|block": "Runter",
+    "GroveJoystickKey.Left|block": "Links",
+    "GroveJoystickKey.Right|block": "Rechts",
+    "GroveJoystickKey.UL|block": "Oben Links",
+    "GroveJoystickKey.LL|block": "Unten Links",
+    "GroveJoystickKey.UR|block": "Oben Rechts",
+    "GroveJoystickKey.LR|block": "Unten Rechts",
+    "GroveJoystickKey.Press|block": "gedrückt",
+    "grovejoystick.onJoystick|block": "Wenn Joystick|%key| am x Pin|%xpin| und y Pin|%ypin|"
+}

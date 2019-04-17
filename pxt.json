@@ -1,7 +1,8 @@
 {
     "name": "pxt-thumbjoystick-calliope",
-    "version": "0.0.4",
-    "description": "",
+    "version": "0.0.5",
+    "description": "Mit diesem Paket kannst du einen Grove-Joystick abfragen",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
         "radio": "*"

@@ -1,4 +1,5 @@
 # Grove pxt-thumbjoystick-calliope
+[![Build Status](https://travis-ci.org/MKleinSB/pxt-thumbjoystick-calliope.svg?branch=master)](https://travis-ci.org/MKleinSB/pxt-thumbjoystick-calliope)
 
 This is Makecode Grove - ThumbJoystick package for Calliope Mini
 

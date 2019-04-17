@@ -48,8 +48,8 @@ namespace grovejoystick {
     /**
      * Do something when a key is detected by Grove - Thumb Joystick
      * @param key type of joystick to detect
-     * @param xpin
-     * @param ypin
+     * @param xpin, eg: GroveJoystickPins.C16
+     * @param ypin, eg: GroveJoystickPins.C17
      * @param handler code to run
      */
     //% blockId=grove_joystick_create_event block="on Key|%key| at x pin|%xpin| and y pin|%ypin|"

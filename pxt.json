@@ -9,7 +9,7 @@
     },
     "files": [
         "README.md",
-        "_locales/de/pxt-thumjoystick-calliope-strings.json",
+        "_locales/de/pxt-thumbjoystick-calliope-strings.json",
         "main.ts"
     ],
     "testFiles": [

@@ -1,6 +1,6 @@
 {
     "name": "pxt-thumbjoystick-calliope",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Mit diesem Paket kannst du einen Grove-Joystick abfragen",
     "license": "MIT",
     "dependencies": {
@@ -9,10 +9,11 @@
     },
     "files": [
         "README.md",
+        "_locales/de/pxt-thumjoystick-calliope-strings.json",
         "main.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": true
 }
